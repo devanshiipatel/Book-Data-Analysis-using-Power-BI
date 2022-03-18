@@ -1,6 +1,6 @@
 # Book-Data-Analysis-using-Power-BI
 
-An interactive report on Packt Booka dataset created using Power BI Desktop. The dataset contains series of books about programming language concepts and book information such as book image URL or page number etc.
+An interactive report on Packt Books dataset created using Power BI Desktop. The dataset contains series of books about programming language concepts and book information such as book image URL or page number etc.
 
 
 ## Clean the dataset

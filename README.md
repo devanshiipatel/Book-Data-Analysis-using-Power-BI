@@ -14,4 +14,4 @@ An interactive report on Packt Booka dataset created using Power BI Desktop. The
 
 ## Report Snapshot
 
-![Screenshot](img/report.png)
+![Screenshot](img/report.jpg)
